@@ -12,3 +12,5 @@
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosianrs)](https://github.com/carlosianrs/github-readme-stats)
