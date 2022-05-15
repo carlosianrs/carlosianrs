@@ -23,3 +23,5 @@ Estudo Desenvolvimento Web no Frond-End e Full-Stack.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ian-rodrigues-dos-santos-08581b239/#education)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlos_ian1/?hl=pt-br)
+    
+<p align="center"> <img align="center" src="https://profile-counter.glitch.me/carlosianrs/count.svg"></p>
