@@ -31,3 +31,7 @@
 </div><br>
 
 <p align="center"> <img align="center" src="https://profile-counter.glitch.me/carlosianrs/count.svg"></p>
+
+<img alt="Cobrinha" src="https://github.com/carlosianrs/carlosianrs/blob/output/github-contribution-grid-snake.svg">
+
+
