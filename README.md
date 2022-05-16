@@ -30,4 +30,5 @@
     <a href="https://www.instagram.com/carlos_ian1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div><br>
 
-<p align="center"> <img align="center" src="https://profile-counter.glitch.me/carlosianrs/count.svg"></p>
+<p align="center"><b>Total de visitas no Perfil:</b>
+<img align="center" src="https://profile-counter.glitch.me/carlosianrs/count.svg"></p>
