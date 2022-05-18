@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Olá! Me chamo Carlos Ian 👋</h1>
 
-💻 Estudo Desenvolvimento Web no Frond-End e Full-Stack.
+💻 Estudo Desenvolvimento Web no Frond-End
 
 📚<b> Cursando Ensino Médio Profissional, Técnico em Informática</b> - conclusão em 2022(dezembro)
 </div>
