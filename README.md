@@ -6,7 +6,7 @@
 📚<b> Cursando Ensino Médio Profissional, Técnico em Informática</b> - conclusão em 2022(dezembro)
 </div>
 
-<div align=center>
+<div align="center">
 <h2>Habilidades</h2>
 </div>
 <div style="display: inline_block" align="center"><br>
@@ -18,6 +18,13 @@
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+</div><br>
+
+<div align="center">
+<h2>IDE's</h2>
+    <div style="display: inline_block" align="center"><br>
+    <img align="center" alt="VisualStudioCode" height="30" width="40" src="https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667"> 
+    <img align="center" alt="CSS" height="30" width="40" src="https://camo.githubusercontent.com/2149a07e09a12ecfee1e97d8a8531ff3e477868266f0ff5c1c0348cd5306bd2c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7375626c696d65746578742e737667">
 </div><br>
 
 <div align="center">
