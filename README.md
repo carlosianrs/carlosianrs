@@ -40,5 +40,5 @@
     <a href="https://www.instagram.com/carlos_ian1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div><br>
 
-<p align="center"><b>Total de visitas no Perfil:</b>
+<p align="center"><b>Total de visitas no Perfil:</b><br>
 <img align="center" src="https://profile-counter.glitch.me/carlosianrs/count.svg"></p>
