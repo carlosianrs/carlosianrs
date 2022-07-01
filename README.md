@@ -37,7 +37,7 @@
 <div align="center">
 <p><b>Contatos:</b></p>
     <a href="https://www.linkedin.com/in/carlos-ian-rodrigues-dos-santos-08581b239/"><img alt"LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.instagram.com/carlos_ian1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.instagram.com/ian.rs7/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div><br>
 
 <p align="center"><b>Total de visitas no Perfil:</b><br>
