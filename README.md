@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Carlos Ian</h1>
 
-💻 Estudando Behave
+💻 Estudando Behave e CakePHP
 
 📚<b> Cursando Ensino Médio Profissional, Técnico em Informática</b> - conclusão em 2022(dezembro)
 </div>
