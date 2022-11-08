@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Carlos Ian</h1>
 
-💻 Estudo Desenvolvimento Web no Frond-End
+💻 Estudando Behave
 
 📚<b> Cursando Ensino Médio Profissional, Técnico em Informática</b> - conclusão em 2022(dezembro)
 </div>
