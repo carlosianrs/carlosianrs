@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Carlos Ian</h1>
+<h1>Carlos Ian - Web Developer</h1>
 
 💻 Estudando Behave e CakePHP
 
@@ -26,8 +26,9 @@
 <div align="center">
 <h2>IDE's</h2>
     <div style="display: inline_block" align="center">
-    <img align="center" alt="VisualStudioCode" height="30" width="40" src="https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667"> 
-    <img align="center" alt="CSS" height="30" width="40" src="https://camo.githubusercontent.com/2149a07e09a12ecfee1e97d8a8531ff3e477868266f0ff5c1c0348cd5306bd2c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7375626c696d65746578742e737667">
+    <img align="center" alt="VisualStudioCode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
+    <img align="center" alt="PyCharm" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
+    <img align="center" alt="NetBeans" height="30" width="30" src="https://seeklogo.com/images/N/netbeans-logo-335EBA952E-seeklogo.com.png">
 </div><br>
 
 <div align="center">
