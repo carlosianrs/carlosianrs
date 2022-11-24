@@ -46,7 +46,3 @@
 
 <p align="center"><b>Total de visitas no Perfil:</b><br>
 <img align="center" src="https://profile-counter.glitch.me/carlosianrs/count.svg"></p>
-    
-Generates a snake game from a github user contributions graph
-
-![Snake animation](https://github.com/carlosianrs/carlosianrs/blob/output/github-contribution-grid-snake.svg)
