@@ -49,4 +49,4 @@
     
 Generates a snake game from a github user contributions graph
 
-![](https://github.com/carlosianrs/carlosianrs/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/carlosianrs/carlosianrs/blob/output/github-contribution-grid-snake.svg)
