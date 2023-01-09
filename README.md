@@ -30,12 +30,12 @@
     <img align="center" alt="PyCharm" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
     <img align="center" alt="NetBeans" height="30" width="30" src="https://seeklogo.com/images/N/netbeans-logo-335EBA952E-seeklogo.com.png">
 </div><br>
-
-<div align="center">
-  <a href="https://github.com/carlosianrs">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlosianrs&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosianrs&theme=dark&hide_border=false&&layout=compact"/>
-  </a>
+    
+  <div align="center">
+   <a href="https://github.com/carlosianrs">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlosianrs&show_icons=true&theme=dark">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosianrs&layout=compact&theme=dark">
+   </a>
 </div><br>
 
 <div align="center">
