@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Carlos Ian - Back-End Developer</h1>
 
-💻 Quality Assurance
+👨‍💻 Quality Assurance
 
 </div>
 
