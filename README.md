@@ -1,9 +1,8 @@
 <div align="center">
-<h1>Carlos Ian - Web Developer</h1>
+<h1>Carlos Ian - Back-End Developer</h1>
 
-💻 Estudando Behave e CakePHP
+💻 Quality Assurance
 
-📚<b> Cursando Ensino Médio Profissional, Técnico em Informática</b> - conclusão em 2022(dezembro)
 </div>
 
 <div align="center">
