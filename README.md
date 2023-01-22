@@ -3,6 +3,8 @@
 
 👨‍💻 Quality Assurance
 
+<img height="200" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"/>
+    
 </div>
 
 <div align="center">
