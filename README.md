@@ -1,7 +1,5 @@
 <div align="center">
-<h1>Carlos Ian - Dev QA</h1>
-
-👨‍💻 Quality Assurance
+<h1>Carlos Ian - Desenvolvedor Full-Stack</h1>
 
 <img height="300" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"/>
     
