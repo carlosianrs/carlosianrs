@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Carlos Ian - Desenvolvedor Back-End</h1>
+<h1>Carlos Ian - Desenvolvedor</h1>
 
 <img height="300" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"/>
     
