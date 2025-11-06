@@ -1,12 +1,12 @@
 <div align="center">
-<h1>Carlos Ian - Desenvolvedor</h1>
+<h1>Hi, how are you? I'm Carlos Ian!</h1>
 
 <img height="300" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"/>
     
 </div>
 
 <div align="center">
-<h2>Habilidades</h2>
+<h2>Languages and Tools</h2>
 </div>
 <div style="display: inline_block" align="center">
     <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
@@ -19,7 +19,12 @@
     <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="CakePHP" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg">
     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+    <img align="center" alt="NodeJs" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+    <img align="center" alt="NextJs" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="Sql Server" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+    <img align="center" alt="TypeScript" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+    <img align="center" alt="React" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+    <img align="center" alt="NestJs" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
 </div>
 
 <div align="center">
