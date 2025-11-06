@@ -28,21 +28,6 @@
 </div>
 
 <div align="center">
-<h2>IDE's</h2>
-    <div style="display: inline_block" align="center">
-    <img align="center" alt="VisualStudioCode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
-    <img align="center" alt="PyCharm" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
-    <img align="center" alt="NetBeans" height="30" width="30" src="https://seeklogo.com/images/N/netbeans-logo-335EBA952E-seeklogo.com.png">
-</div><br>
-    
-  <div align="center">
-   <a href="https://github.com/carlosianrs">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlosianrs&show_icons=true&theme=dark">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosianrs&layout=compact&theme=dark">
-   </a>
-</div><br>
-
-<div align="center">
 <p><b>Contatos:</b></p>
     <a href="https://www.linkedin.com/in/carlos-ian-rodrigues-dos-santos-08581b239/"><img alt"LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.instagram.com/ian.rs7/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
