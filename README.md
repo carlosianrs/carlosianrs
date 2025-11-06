@@ -43,8 +43,8 @@
     <a href="https://www.instagram.com/ian.rs7/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div><br>
 
-<div align="center">    
-  ![snake gif](https://github.com/carlosianrs/carlosianrs/blob/output/github-snake-dark.svg)
+<div align="center">
+  ![snake gif](https://github.com/carlosianrs/carlosianrs/blob/output/github-snake-dark.svg?raw=1)
 </div>
 
 <p align="center"><b>Total de visitas no Perfil:</b><br>
