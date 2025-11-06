@@ -44,8 +44,11 @@
 </div><br>
 
 <div align="center">
-  ![snake gif](https://github.com/carlosianrs/carlosianrs/blob/output/github-snake-dark.svg?raw=1)
+    
+  ![snake gif](https://github.com/carlosianrs/carlosianrs/blob/output/github-snake-dark.svg)
 </div>
 
-<p align="center"><b>Total de visitas no Perfil:</b><br>
-<img align="center" src="https://profile-counter.glitch.me/carlosianrs/count.svg"></p>
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=carlosianrs&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
