@@ -6,9 +6,9 @@
 <div align="center">
     <h2>Sumarry</h2>
     <div align="left">
-        <p>- I am focusing on improving my knowledge of React Native, Next, and Nest.</p>
-        <p>- Bachelor's degree in Systems Analysis and Development.</p>
-        <p>- Experienced in Front-End and Back-End development, as well as mobile development.</p>
+        <p>📚 | I am focusing on improving my knowledge of React Native, Next, and Nest.</p>
+        <p>🧑‍🎓 | Bachelor's degree in Systems Analysis and Development.</p>
+        <p>🧑‍💻 | Experienced in Front-End and Back-End development, as well as mobile development.</p>
     </div>
 </div>
 
