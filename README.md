@@ -1,12 +1,19 @@
 <div align="center">
-<h1>Hi, how are you? I'm Carlos Ian!</h1>
-
-<img height="300" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"/>
-    
+    <h1>Hi, how are you? I'm Carlos Ian!</h1>
+    <img height="300" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"/>    
 </div>
 
 <div align="center">
-<h2>Languages and Tools</h2>
+    <h2>Sumarry</h2>
+    <div align="left">
+        <p>Estou focando para aprimorar conhecimentos com React Native, Next e Nest</p>
+        <p>Formado em Análise e Desenvolvimento de Sistemas</p>
+        <p>Com experiências em Front-End e Back-End, além de desenvolvimento mobile</p>
+    </div>
+</div>
+
+<div align="center">
+    <h2>Languages and Tools</h2>
 </div>
 <div style="display: inline_block" align="center">
     <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
@@ -27,12 +34,13 @@
     <img align="center" alt="NestJs" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosianrs&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosianrs&layout=donut&theme=github_dark_dimmed)]
+<div align="center">
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosianrs&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosianrs&layout=donut&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div align="center">
-<p><b>Contatos:</b></p>
+    <p><b>Contatos:</b></p>
     <a href="https://www.linkedin.com/in/carlos-ian-rodrigues-dos-santos-08581b239/"><img alt"LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.instagram.com/ian.rs7/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div><br>
@@ -42,7 +50,7 @@
   ![snake gif](https://github.com/carlosianrs/carlosianrs/blob/output/github-snake-dark.svg)
 </div>
 
-<div align="center">
-  
+<div align="center">  
+    
   [![](https://visitcount.itsvg.in/api?id=carlosianrs&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
