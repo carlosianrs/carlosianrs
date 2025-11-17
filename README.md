@@ -6,9 +6,9 @@
 <div align="center">
     <h2>Sumarry</h2>
     <div align="left">
-        <p>Estou focando para aprimorar conhecimentos com React Native, Next e Nest</p>
-        <p>Formado em Análise e Desenvolvimento de Sistemas</p>
-        <p>Com experiências em Front-End e Back-End, além de desenvolvimento mobile</p>
+        <p>- Estou focando para aprimorar conhecimentos com React Native, Next e Nest</p>
+        <p>- Formado em Análise e Desenvolvimento de Sistemas</p>
+        <p>- Com experiências em Front-End e Back-End, além de desenvolvimento mobile</p>
     </div>
 </div>
 
@@ -32,7 +32,7 @@
     <img align="center" alt="TypeScript" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
     <img align="center" alt="React" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
     <img align="center" alt="NestJs" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
-</div>
+</div><br>
 
 <div align="center">
     
