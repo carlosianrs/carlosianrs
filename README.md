@@ -27,6 +27,10 @@
     <img align="center" alt="NestJs" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosianrs&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosianrs&layout=donut&theme=github_dark_dimmed)]
+</div>
+
 <div align="center">
 <p><b>Contatos:</b></p>
     <a href="https://www.linkedin.com/in/carlos-ian-rodrigues-dos-santos-08581b239/"><img alt"LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
