@@ -16,17 +16,9 @@
 
 | Technologies |
 |--------------|
-| HTML • CSS • PHP • JavaScript • TypeScript • Java • Python |
-| React • React Native • Next.js • Node.js • NestJS |
-| MySQL • PostgreSQL • SQL Server |
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosianrs&show_icons=true&theme=github_dark_dimmed)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosianrs&layout=donut&theme=github_dark_dimmed)
+![Static Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&labelColor=black)
+![Static Badge](https://img.shields.io/badge/JavaSript-FFC600?style=for-the-badge&logo=javascript&labelColor=black)
+![Static Badge](https://img.shields.io/badge/TypeScript-1E90FF?style=for-the-badge&logo=typescript&labelColor=black)
 
 ---
 
@@ -38,5 +30,3 @@
 ---
 
 ![Snake Animation](https://github.com/carlosianrs/carlosianrs/blob/output/github-snake-dark.svg)
-
-![Profile Views](https://visitcount.itsvg.in/api?id=carlosianrs&icon=10&color=6)
