@@ -8,10 +8,10 @@
 
 ## 📌 About Me
 
-I am a **Back-End Developer** with experience across **Front-End** and **Mobile** development.  
-I enjoy creating scalable systems, solving complex problems and continuously improving software.
+I am a **Back-End Developer** with experience in **Front-End** and **Mobile** development.  
+I love building scalable solutions, solving complex problems, and continuously evolving technically and professionally.
 
-💡 Currently enhancing my skills in **React Native**, **Next.js**, and **NestJS**.  
+💡 Currently improving skills in **React Native**, **Next.js**, and **NestJS**.  
 🎓 Bachelor's degree in **Systems Analysis & Development**.
 
 ---
@@ -19,7 +19,15 @@ I enjoy creating scalable systems, solving complex problems and continuously imp
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,mongodb,vscode,vite,vercel,tailwind,swift,sqlite,py,prisma,postman,postgres,ps,php,nodejs,nextjs,nestjs,mysql,linux,jenkins,java,gradle,gherkin,git,firebase,figma,eclipse,docker,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,mongodb,vscode,vite,vercel,tailwind,swift,sqlite,py,prisma,postman,postgres,ps,php,nodejs,nextjs,nestjs,mysql,linux,jenkins,java,gradle,gherkin,git,firebase,figma,eclipse,docker,bootstrap"/>
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=carlosianrs&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -38,5 +46,5 @@ I enjoy creating scalable systems, solving complex problems and continuously imp
 ---
 
 <p align="center">
-  <img src="https://github.com/carlosianrs/carlosianrs/blob/output/github-snake-dark.svg" />
+  <img src="https://github.com/carlosianrs/carlosianrs/blob/output/github-snake-dark.svg"/>
 </p>
