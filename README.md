@@ -23,7 +23,7 @@ I enjoy creating scalable systems, solving complex problems and continuously imp
   <br/>
   <img height="35" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
-     style="background:#F80000; padding:6px; border-radius:8px;" />
+     style="background:#FFFFFF; padding:6px; border-radius:8px;" />
   <img height="35"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
      style="background:#CC2927; padding:6px; border-radius:8px;" />
