@@ -21,8 +21,12 @@ I enjoy creating scalable systems, solving complex problems and continuously imp
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,php,postgres,mysql,java,linux,docker,git,nodejs,nextjs,nestjs" />
   <br/>
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+  <img height="35" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
+     style="background:#F80000; padding:6px; border-radius:8px;" />
+  <img height="35"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+     style="background:#CC2927; padding:6px; border-radius:8px;" />
 </p>
 
 ---
