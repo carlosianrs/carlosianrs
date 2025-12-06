@@ -19,7 +19,10 @@ I enjoy creating scalable systems, solving complex problems and continuously imp
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,mongodb,vscode,vite,vercel,tailwind,swift,sqlite,py,prisma,postman,postgres,ps,php,nodejs,nextjs,nestjs,mysql,linux,jenkins,java,gradle,gherkin,git,firebase,figma,eclipse,docker,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,php,postgres,mysql,java" />
+  <br/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
