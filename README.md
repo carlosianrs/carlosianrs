@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Carlos Ian
 
 <p align="center">
-  <img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="160"/>
+  <img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="350"/>
 </p>
 
 ---
