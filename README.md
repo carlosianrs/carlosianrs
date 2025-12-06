@@ -1,57 +1,42 @@
-<div align="center">
-    <h1>Hi, how are you? I'm Carlos Ian!</h1>
-    <img height="300" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"/>    
-</div>
+# 👋 Hi there! I'm Carlos Ian
 
-<div align="center">
-    <h2>Sumarry</h2>
-    <div align="center">
-        <p>📚 | I am focusing on improving my knowledge of React Native, Next, and Nest.</p>
-        <p>🧑‍🎓 | Bachelor's degree in Systems Analysis and Development.</p>
-        <p>🧑‍💻 | Experienced in Front-End and Back-End development, as well as mobile development.</p>
-    </div>
-</div>
+![Hello GIF](https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif)
 
-<div align="center">
-    <h2>Languages and Tools</h2>
-</div>
-<div style="display: inline_block" align="center">
-    <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
-    <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
-    <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
-    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="CakePHP" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg">
-    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
-    <img align="center" alt="NodeJs" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-    <img align="center" alt="NextJs" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-    <img align="center" alt="Sql Server" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
-    <img align="center" alt="TypeScript" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-    <img align="center" alt="React" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-    <img align="center" alt="NestJs" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
-</div><br>
+---
 
-<div align="center">
-    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosianrs&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosianrs&layout=donut&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+## 📌 Summary
 
-<div align="center">
-    <p><b>Contatos:</b></p>
-    <a href="https://www.linkedin.com/in/carlos-ian-rodrigues-dos-santos-08581b239/"><img alt"LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.instagram.com/ian.rs7/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div><br>
+- 📚 Currently improving my skills in **React Native**, **Next.js**, and **NestJS**.
+- 🎓 Bachelor's degree in **Systems Analysis & Development**.
+- 💻 Experience in **Back-End**, **Front-End**, and **Mobile** development.
 
-<div align="center">
-    
-  ![snake gif](https://github.com/carlosianrs/carlosianrs/blob/output/github-snake-dark.svg)
-</div>
+---
 
-<div align="center">  
-    
-  [![](https://visitcount.itsvg.in/api?id=carlosianrs&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>
+## 🛠️ Languages & Tools
+
+| Technologies |
+|--------------|
+| HTML • CSS • PHP • JavaScript • TypeScript • Java • Python |
+| React • React Native • Next.js • Node.js • NestJS |
+| MySQL • PostgreSQL • SQL Server |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosianrs&show_icons=true&theme=github_dark_dimmed)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosianrs&layout=donut&theme=github_dark_dimmed)
+
+---
+
+## 📬 Contact
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ian-rodrigues-dos-santos-08581b239/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ian.rs7/)
+
+---
+
+![Snake Animation](https://github.com/carlosianrs/carlosianrs/blob/output/github-snake-dark.svg)
+
+![Profile Views](https://visitcount.itsvg.in/api?id=carlosianrs&icon=10&color=6)
