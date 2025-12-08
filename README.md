@@ -24,14 +24,6 @@ I love building scalable solutions, solving complex problems, and continuously e
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=carlosianrs&theme=github-dark&hide_border=true" />
-</p>
-
----
-
 ## 📫 Contact Me
 
 <p align="center">
